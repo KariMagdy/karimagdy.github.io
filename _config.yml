@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Karim M. Ibrahim"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Karim M. Ibrahim"
+description              : &description "PhD student at Télécom ParisTech"
+url                      : https://karimmibrahim.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KarimMibrahim/KarimMibrahim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Karim M. Ibrahim"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hi! You have reached my webpage. Here, it's all about music and science. I am a PhD student working on music recommendation at <a href="https://www.telecom-paristech.fr/">Télécom ParisTech</a> in collaboration with <a href="https://www.deezer.com/en/">Deezer</a>. I am supervised by Dr. Gaël Richard and Dr. Jeoffroy Peeters from Télécom ParisTech and Jimena Royo-Letelier and Florian Lesaint from Deezer. My research interest lies in Music Information Retreival and application of deep learning in music technology.</p>
+            <p style="font-size:16px">Prior to joining Télécom ParisTech, I graduated with a M.Sc. in Computer science from <a href="http://nus.edu.sg/">The National University of Singapore (NUS)</a> where I worked on <a href="http://scholarbank.nus.edu.sg/handle/10635/148567">The Problem of Singing Voice Intelligibility</a>. Before that, I finished another M.Sc. in Software Engineering from <a href="http://nu.edu.eg/">Nile University, Cairo</a>, where I worked on primary/ambient audio source separtion.
+            Additionally, I did a 3-month internship at IBM labs in Singapore working on question-answering and another 6-month thesis internship at Sony's Stuttgart Technology Group working on source separation. </p>"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Y5lfpv8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,19 +97,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KarimMibrahim"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kmagdy/"
+  orcid            : "https://orcid.org/0000-0003-3315-9539"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
