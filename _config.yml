@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Karim M Ibrahim"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "It's all about music and science. A PhD student working on music recommendation at Télécom ParisTech and Deezer"
   location         : "Paris"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Y5lfpv8AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Karim_Ibrahim11"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : "https://www.last.fm/user/KariMagdy"
   linkedin         : "https://www.linkedin.com/in/kmagdy/"
   orcid            : "https://orcid.org/0000-0003-3315-9539"
   pinterest        :
