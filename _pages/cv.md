@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Music Information Processing, Télécom ParisTech, 2021 (expected)
+* M.Sc. in Compueter Science, National University of Singapore, 2018
+* M.Sc. in Software Engineering, Nile University, 2016
+* B.Sc. in Electronics and Communication Engineering, Fayoum University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * IBM, Singapore
+  * Duties included: Conducting research on Natural Language Processing and Question Answering.
+  * Supervisor: Shiau Hong Lim
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2015 - Feb 2016: Research Intern
+  * Sony, Stuttgart Technology Center, Stuttgart ,Germany.
+  * Duties included: Developing algorithms for primary-ambient source separation for audio signals
+  * Supervisor: Stefan Uhlich
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+[//]: # (Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+)
