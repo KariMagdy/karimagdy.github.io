@@ -12,4 +12,4 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://karimmibrahim.github.io/files/paper3.pdf)
 
-Recommended citation: Ibrahim, K. M., Mahmoud Allam "Primary-Ambient Source Separation for Upmixing to Surround Sound Systems," <i>2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). </i> IEEE, 2018
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
