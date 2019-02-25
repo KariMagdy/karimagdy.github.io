@@ -2,7 +2,7 @@
 title: "Intelligibility of Sung Lyrics: A Pilot Study"
 collection: publications
 permalink: /publication/[Paper]IoSL
-excerpt: 'This paper is about estimating the intelligibility of the singing voice in a given song. We propose a set of acoustic features that are relevant for estimating the intelligibility. We also propose an approach for labeling songs with an intelligibility score accroding to human perception'
+excerpt: 'This paper is about estimating the intelligibility of the singing voice in a given song.'
 date: 2017-10-01
 venue: 'Proceedings ofthe 19th International Society for Music Information Retreival Conference (ISMIR)'
 paperurl: 'https://karimmibrahim.github.io/files/[Paper]IoSL.pdf'
