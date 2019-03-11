@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Music Information Processing, Télécom ParisTech, 2021 (expected)
-* M.Sc. in Compueter Science, National University of Singapore, 2018
+* M.Sc. in Computer Science, National University of Singapore, 2018
 * M.Sc. in Software Engineering, Nile University, 2016
 * B.Sc. in Electronics and Communication Engineering, Fayoum University, 2014
 
