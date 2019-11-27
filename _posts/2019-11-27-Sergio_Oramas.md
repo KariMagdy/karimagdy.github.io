@@ -1,5 +1,5 @@
 ---
-title: Meet an MIR Researcher: Sergio Oramas
+title: 'Meet an MIR Researcher: Sergio Oramas'
 excerpt: An interview with Dr. Sergio Oramas
 date: 2019-11-27
 tags:
