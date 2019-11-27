@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Meet an MIR Researcher
-subtitle: An interview with Dr. Sergio Oramas
+title: Meet an MIR Researcher: Sergio Oramas
 excerpt: An interview with Dr. Sergio Oramas
+permalink: /posts/2019/11/Sergio_Oramas/
 date: 2019-11-27
-author: Karim M. Ibrahim
-author-id: karim
-background: /files/Sergio_Oramas_interview/delft.jpg
+tags:
+  - ISMIR
+  - Interviews
 ---
 
 During ISMIR 2019, we got the chance to have a talk with Sergio Oramas. Sergio is a researcher in Music Data Science, specialized in Recommender Systems, Natural Language Processing, and Deep Learning with audio and text. He got his PhD in 2017 at the Music Technology Group of the Pompeu Fabra University in Barcelona. He is currently working as a Research Scientist at Pandora. He is also an Assistant Professor of Machine Learning at the Pompeu Fabra University. He has more than 20 publications in top-tier peer-reviewed conferences and journals and holds a B.S. in Computer Science, a B.A. in Musicology, and a Major in Jazz Composition. He also works as a composer for films, and produces his own songs. He sings and plays guitar, timple (a kind of ukulele from the Canary Islands), and synthesizers.
