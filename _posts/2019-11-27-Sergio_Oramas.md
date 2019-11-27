@@ -1,7 +1,6 @@
 ---
 title: Meet an MIR Researcher: Sergio Oramas
 excerpt: An interview with Dr. Sergio Oramas
-permalink: /posts/2019/11/Sergio_Oramas/
 date: 2019-11-27
 tags:
   - ISMIR
