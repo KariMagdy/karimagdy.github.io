@@ -9,4 +9,3 @@ author_profile: true
 
 My neighbors have bought exclusive rights. To enjoy the show, please move in next door.
 
-Till then.. here is some noise: [https://soundcloud.com/karim-magdy-3/tracks](https://soundcloud.com/karim-magdy-3/tracks)
