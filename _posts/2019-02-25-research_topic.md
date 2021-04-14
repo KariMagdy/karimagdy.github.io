@@ -1,5 +1,5 @@
 ---
-title: 'My research topic: music recommendation using context information'
+title: 'What am I doing?'
 date: 2019-02-25
 permalink: /posts/2019/02/mir/
 tags:
@@ -7,10 +7,10 @@ tags:
   - MIR
 ---
 
-My area of research is music information retreival. You can find more details about it [here](https://en.wikipedia.org/wiki/Music_information_retrieval) if you are new in the club.
+Well, I wish I know.. 
 
-At the moment, I am working on music recommendation. I am trying to use contextual information, such as your current activity/mood/location to recommend the suitable music for this context. If this is solved, you won't be recommended your favorite metal song when you're trying to sleep (well.. unless that's what you like). 
+My area of research is [music information retreival](https://en.wikipedia.org/wiki/Music_information_retrieval).
 
-My research involves studying the different contexts that require different music preferences. It also involves studying the acoustic characterestics of the songs that influence these preferences. 
+At the moment, I am working on behavioural music analysis. I am trying to use situational information, such as your current activity/mood/location to find the suitable music for this situation. Along the way, I study how different situtation change prefered music styles, and how this change from one listener to the other. If this is solved, you won't be recommended your favorite metal song when you're trying to sleep (well.. unless that's what you like). 
 
 Stay tuned!
