@@ -68,12 +68,21 @@ In this article, we explored how one very common problem requires efforts from m
 
 ### References
 [1] Greb, Fabian, Wolff Schlotz, and Jochen Steffens. "Personal and situational influences on the functions of music listening." Psychology of Music 46.6 (2018): 763-794.
+
 [2] North, Adrian C., and David J. Hargreaves. "Situational influences on reported musical preference." Psychomusicology: A Journal of Research in Music Cognition 15.1-2 (1996): 30.
+
 [3] Schäfer, Thomas, and Peter Sedlmeier. "From the functions of music to music preference." Psychology of Music 37.3 (2009): 279-300.
+
 [4] Ibrahim, Karim, et al. "Should we consider the users in contextual music auto-tagging models?." International Society for Music Information Retrieval Conference (ISMIR). 2020.
+
 [5] Du, Pengfei, Xiaoyong Li, and Yali Gao. "Dynamic Music emotion recognition based on CNN-BiLSTM." 2020 IEEE 5th Information Technology and Mechatronics Engineering Conference (ITOEC). IEEE, 2020.
-[6] Cowen, Alan S., et al. "What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures." Proceedings of the National Academy of Sciences 117.4 (2020): 1924-1934.
+
+[6] Cowen, Alan S., et al. "What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures." Proceedings of the National Academy of Sciences 
+117.4 (2020): 1924-1934.
+
 [7] Kaminskas, Marius, and Francesco Ricci. "Emotion-based matching of music to places." Emotions and Personality in Personalized Services. Springer, Cham, 2016. 287-310.
+
 [8] Hansen, Casper, et al. "Contextual and sequential user embeddings for large-scale music recommendation." Fourteenth ACM Conference on Recommender Systems. 2020.
+
 [9] Lozano Murciego, Álvaro, et al. "Context-Aware Recommender Systems in the Music Domain: A Systematic Literature Review." Electronics 10.13 (2021): 1555.
 
