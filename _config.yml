@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Karim M. Ibrahim"
 title_separator          : "-"
 name                     : &name "Karim M. Ibrahim"
-description              : &description "PhD student at Télécom ParisTech"
+description              : &description "Audio Research Scientist"
 url                      : https://karimmibrahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KarimMibrahim/KarimMibrahim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karim M. Ibrahim"
   avatar           : "profile.jpeg"
-  bio              : "A Ph.D. student working on behavioural music analysis at Télécom Paris and Deezer"
+  bio              : "Audio research scientist. Currently developing new technologies in Voclarity for smart speech acceleration. Previously a Ph.D. student working on behavioural music analysis at Télécom Paris and Deezer"
   location         : "Paris"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Y5lfpv8AAAAJ&hl=en"
