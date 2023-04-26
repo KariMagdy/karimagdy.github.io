@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! You have reached my webpage. Here, it's mostly about music and science. 
-I am an audio research scientist, currently working in the recently founded startup "Voclarity". We are developing new technologies for smart speech acceleration. 
+I am an audio research scientist, currently working as R&D projects manager in [Arkamys] (https://www.arkamys.com/). 
 
 Previously, I was a PhD student working on behavioural music analysis at [Télécom Paris](https://www.telecom-paristech.fr/) in collaboration with [Deezer](https://www.deezer.com/en/). I was supervised by Dr. Gaël Richard and Dr. Geoffroy Peeters from Télécom Paris and Dr. Elena Epure from Deezer. My research interest is around music information retrieval and application of machine learning in music technology.
 
