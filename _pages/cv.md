@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Oct 2018 - Dec 2021: PhD Research Scientist
+  * Deezer, Paris
+  * Duties included: Conducting research on Audio Auto-tagging.
+  * Supervisor: Elena Epure
+
 * Summer 2018: Research Intern
   * IBM, Singapore
   * Duties included: Conducting research on Natural Language Processing and Question Answering.
